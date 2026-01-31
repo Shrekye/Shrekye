@@ -3,13 +3,11 @@
 <p align="center">
 class Personne:
 <br><br>
-    def __init__(self, name, age, school): 
+    def __init__(self, name, school): 
     <br><br>
         self.name = "Erwann"
         <br>
-        self.age = 18
-        <br>
-        self.school = "I know"
+        self.school = "Guardia cybersecurity school"
 </p>
     </pre>
     <ul align="center">
