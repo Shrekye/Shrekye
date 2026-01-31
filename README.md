@@ -30,21 +30,21 @@ class Personne:
 <h3 align="center">Currently building my knowledge on digital</h3>
 <table>
   <tr>
-    <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=erwann-dms&theme=high-contrast&line=9745f5&title_color=9745f5"/>
+    <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrekye&theme=high-contrast&line=9745f5&title_color=9745f5"/>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=erwann-dms&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrekye&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"/>
     </td>
     <td>
-      <img align="center" src="https://streak-stats.demolab.com?user=erwann-dms&theme=midnight-purple" alt="GitHub Streak"/>
+      <img align="center" src="https://streak-stats.demolab.com?user=Shrekye&theme=midnight-purple" alt="GitHub Streak"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=erwann-dms&repo=webpack&theme=midnight-purple&show_owner=true"/>
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrekye&repo=webpack&theme=midnight-purple&show_owner=true"/>
     </td>
     <td>
-      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=erwann-dms&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true"/>
+      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Shrekye&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true"/>
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ class Personne:
 
 <h2 align="center">Socials</h2>
 <p align="center"> 
-  <a href="https://discord.com/users/erwann.dms_83" target="_blank" rel="noreferrer"> 
+  <a href="https://discord.com/users/shrekye_75" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
