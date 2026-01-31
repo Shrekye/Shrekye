@@ -29,21 +29,6 @@ class Personne:
 <table>
   <tr>
     <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrekye&theme=high-contrast&line=9745f5&title_color=9745f5"/>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrekye&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"/>
-    </td>
-    <td>
-      <img align="center" src="https://streak-stats.demolab.com?user=Shrekye&theme=midnight-purple" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrekye&repo=webpack&theme=midnight-purple&show_owner=true"/>
-    </td>
-    <td>
-      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Shrekye&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true"/>
-    </td>
   </tr>
 </table>
 </p>
